@@ -30,16 +30,16 @@ jobs:
           const repos = await github.paginate(github.rest.repos.listForUser, {
             username: user,
             per_page: 100,
-            sort: 'pushed',
+            sort: 'created',
             direction: 'desc',
-            type: 'all'
+            type: 'owner'
           });
-          core.info(`Fetched ${repos.length} repos for @${user}`);
+          console.log(`Fetched ${repos.length} repos for @${user}`);
           const filtered = repos
             .filter(r => !r.private)
-            .sort((a,b) => new Date(b.updated_at) - new Date(a.updated_at))
+            .sort((a,b) => new Date(b.created_at) - new Date(a.created_at))
             .slice(0, perPage);
-          core.info(`Filtered to ${filtered.length} public repos`);
+          console.log(`Filtered to ${filtered.length} recent public repos`);
           let lines = filtered.map(r => {
             const desc = (r.description || 'No description').replace(/[\r\n]+/g, ' ').trim();
             const updated = new Date(r.updated_at).toISOString().slice(0,10);
@@ -63,9 +63,9 @@ jobs:
           const updatedReadme = readme.replace(regex, newBlock);
           if (updatedReadme !== readme) {
             fs.writeFileSync(readmePath, updatedReadme);
-            core.info('README.md updated with recent repositories.');
+            console.log('README.md updated with recent repositories.');
           } else {
-            core.info('No changes to README.md needed.');
+            console.log('No changes to README.md needed.');
           }
 
     - name: Commit changes
