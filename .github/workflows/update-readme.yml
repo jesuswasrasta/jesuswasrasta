@@ -25,7 +25,7 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const user = 'jesuswasrasta';
-          const perPage = 12; // number of repos to show
+          const perPage = 8; // number of repos to show
           // Fetch user's public, non-fork repos sorted by updated
           const repos = await github.paginate(github.rest.repos.listForUser, {
             username: user,
@@ -62,12 +62,27 @@ jobs:
           const start = '<!-- RECENT-REPOS:START -->';
           const end = '<!-- RECENT-REPOS:END -->';
           let readme = fs.readFileSync(readmePath, 'utf8');
+          // Normalize line endings to \n to avoid false negatives
+          readme = readme.replace(/\r\n/g, '\n');
           if (!readme.includes(start) || !readme.includes(end)) {
             throw new Error('Markers not found in README.md');
           }
-          const newBlock = [start, ...lines, end].join('\n');
-          const regex = new RegExp(`${start}[\s\S]*?${end}`);
-          const updatedReadme = readme.replace(regex, newBlock);
+          const startEsc = start.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const endEsc = end.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const blockContent = lines.join('\n');
+          const newBlock = `${start}\n${blockContent}\n${end}`;
+          const regex = new RegExp(`${startEsc}[\\s\\S]*?${endEsc}`, 'm');
+          let updatedReadme = readme.replace(regex, newBlock);
+          if (updatedReadme === readme) {
+            // Fallback: manual slicing
+            const sIdx = readme.indexOf(start);
+            const eIdx = readme.indexOf(end, sIdx);
+            if (sIdx !== -1 && eIdx !== -1) {
+              const before = readme.slice(0, sIdx);
+              const after = readme.slice(eIdx + end.length);
+              updatedReadme = `${before}${newBlock}${after}`;
+            }
+          }
           if (updatedReadme !== readme) {
             fs.writeFileSync(readmePath, updatedReadme);
             console.log('README.md updated with recent repositories.');
