@@ -7,19 +7,23 @@ I'm Ferdinando Santacroce 😀
 👨‍💻 Then a software developer  
 👲 Now I work with teams and organizations as an agile (technical) coach.  
 
-👨‍💼 I’m on LinkedIn https://www.linkedin.com/in/ferdinandosantacroce/  
-🐘 and even on Mastodon, https://mastodon.social/@ferdinandosantacroce.  
+👨‍💼 I’m on [LinkedIn](https://www.linkedin.com/in/ferdinandosantacroce/)  
+🐘 and even on [Mastodon](https://mastodon.social/@ferdinandosantacroce).  
 
-👯 I’ve a blog at https://jesuswasrasta.com  
-👨‍🎨 I wrote something about Git https://jesuswasrasta.com/works/.  
+👯 I’ve a blog at [jesuswasrasta.com](https://jesuswasrasta.com)  
+👨‍🎨 I wrote something about Git [here](https://jesuswasrasta.com/works/).  
 
-👨‍🎤 I like to organize, participate and speak at conferences: https://jesuswasrasta.com/talks/  
+👨‍🎤 I like to organize, participate and speak at conferences: [here](https://jesuswasrasta.com/talks/)  
 📙 as my preferred hobby is learning new things.  
 
-📫 Reach me at: https://jesuswasrasta.com/about/  
+📫 Reach me at: [here](https://jesuswasrasta.com/about/)  
 
 😄 Pronouns: he/him/his  
 
-## Katalog
+## 🥋 Katalog
 Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasrasta/lists/katalog).  
 
+## 📚 Recent Repositories
+<!-- RECENT-REPOS:START -->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- RECENT-REPOS:END -->
