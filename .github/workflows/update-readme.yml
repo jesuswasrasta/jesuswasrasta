@@ -33,13 +33,14 @@ jobs:
             sort: 'updated'
           });
           const filtered = repos
-            .filter(r => !r.fork && !r.private)
+            .filter(r => !r.private)
             .sort((a,b) => new Date(b.updated_at) - new Date(a.updated_at))
             .slice(0, perPage);
           const lines = filtered.map(r => {
             const desc = (r.description || 'No description').replace(/[\r\n]+/g, ' ').trim();
             const updated = new Date(r.updated_at).toISOString().slice(0,10);
-            return `- [${r.name}](${r.html_url}) — ${desc} (updated ${updated})`;
+            const forkTag = r.fork ? ' (fork)' : '';
+            return `- [${r.name}](${r.html_url})${forkTag} — ${desc} (updated ${updated})`;
           });
           const fs = require('fs');
           const path = require('path');
