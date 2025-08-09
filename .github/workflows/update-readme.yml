@@ -25,7 +25,7 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const user = 'jesuswasrasta';
-          const perPage = 8; // number of repos to show
+          const perPage = 12; // number of repos to show
           // Fetch user's public, non-fork repos sorted by updated
           const repos = await github.paginate(github.rest.repos.listForUser, {
             username: user,
@@ -35,11 +35,18 @@ jobs:
             type: 'owner'
           });
           console.log(`Fetched ${repos.length} repos for @${user}`);
+          function recency(repo) {
+            const dates = [repo.created_at, repo.pushed_at, repo.updated_at]
+              .filter(Boolean)
+              .map(d => new Date(d).getTime());
+            return Math.max(...dates);
+          }
           const filtered = repos
             .filter(r => !r.private)
-            .sort((a,b) => new Date(b.created_at) - new Date(a.created_at))
+            .sort((a,b) => recency(b) - recency(a))
             .slice(0, perPage);
           console.log(`Filtered to ${filtered.length} recent public repos`);
+          console.log('Top repos:', filtered.map(r => `${r.full_name} | fork=${r.fork} | created=${r.created_at} | pushed=${r.pushed_at} | updated=${r.updated_at}`).join('\n'));
           let lines = filtered.map(r => {
             const desc = (r.description || 'No description').replace(/[\r\n]+/g, ' ').trim();
             const updated = new Date(r.updated_at).toISOString().slice(0,10);
