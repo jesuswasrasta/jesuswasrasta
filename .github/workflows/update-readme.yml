@@ -30,18 +30,25 @@ jobs:
           const repos = await github.paginate(github.rest.repos.listForUser, {
             username: user,
             per_page: 100,
-            sort: 'updated'
+            sort: 'pushed',
+            direction: 'desc',
+            type: 'all'
           });
+          core.info(`Fetched ${repos.length} repos for @${user}`);
           const filtered = repos
             .filter(r => !r.private)
             .sort((a,b) => new Date(b.updated_at) - new Date(a.updated_at))
             .slice(0, perPage);
-          const lines = filtered.map(r => {
+          core.info(`Filtered to ${filtered.length} public repos`);
+          let lines = filtered.map(r => {
             const desc = (r.description || 'No description').replace(/[\r\n]+/g, ' ').trim();
             const updated = new Date(r.updated_at).toISOString().slice(0,10);
             const forkTag = r.fork ? ' (fork)' : '';
             return `- [${r.name}](${r.html_url})${forkTag} — ${desc} (updated ${updated})`;
           });
+          if (lines.length === 0) {
+            lines = ['- No recent public repositories found.']
+          }
           const fs = require('fs');
           const path = require('path');
           const readmePath = path.join(process.env.GITHUB_WORKSPACE, 'README.md');
