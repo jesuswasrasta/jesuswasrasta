@@ -15,21 +15,54 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Update README with recent repositories
-      uses: codeSTACKr/readme-github-stats@main
+    
+    - name: Generate recent repositories section
+      uses: actions/github-script@v7
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SHOW_LINES_OF_CODE: false
-        SHOW_PROFILE_VIEWS: false
-        SHOW_DAYS_OF_WEEK: false
-        SHOW_TIMEZONE: false
-        SHOW_EDITORS: false
-        SHOW_LANGUAGE_PER_REPO: false
-        SHOW_OS: false
-        SHOW_PROJECTS: false
-        SHOW_LOC_CHART: false
-        SHOW_UPDATED: true
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const user = 'jesuswasrasta';
+          const perPage = 8; // number of repos to show
+          // Fetch user's public, non-fork repos sorted by updated
+          const repos = await github.paginate(github.rest.repos.listForUser, {
+            username: user,
+            per_page: 100,
+            sort: 'updated'
+          });
+          const filtered = repos
+            .filter(r => !r.fork && !r.private)
+            .sort((a,b) => new Date(b.updated_at) - new Date(a.updated_at))
+            .slice(0, perPage);
+          const lines = filtered.map(r => {
+            const desc = (r.description || 'No description').replace(/[\r\n]+/g, ' ').trim();
+            const updated = new Date(r.updated_at).toISOString().slice(0,10);
+            return `- [${r.name}](${r.html_url}) — ${desc} (updated ${updated})`;
+          });
+          const fs = require('fs');
+          const path = require('path');
+          const readmePath = path.join(process.env.GITHUB_WORKSPACE, 'README.md');
+          const start = '<!-- RECENT-REPOS:START -->';
+          const end = '<!-- RECENT-REPOS:END -->';
+          let readme = fs.readFileSync(readmePath, 'utf8');
+          if (!readme.includes(start) || !readme.includes(end)) {
+            throw new Error('Markers not found in README.md');
+          }
+          const newBlock = [start, ...lines, end].join('\n');
+          const regex = new RegExp(`${start}[\s\S]*?${end}`);
+          const updatedReadme = readme.replace(regex, newBlock);
+          if (updatedReadme !== readme) {
+            fs.writeFileSync(readmePath, updatedReadme);
+            core.info('README.md updated with recent repositories.');
+          } else {
+            core.info('No changes to README.md needed.');
+          }
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "docs(readme): update recent repositories section"
+        file_pattern: README.md
+        branch: master
