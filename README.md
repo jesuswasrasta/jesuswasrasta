@@ -25,10 +25,10 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-08-30)
+- [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2025-08-31)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-08-31)
 - [KataSupermarket-EuroTN](https://github.com/jesuswasrasta/KataSupermarket-EuroTN) — No description (updated 2025-08-16)
 - [zmk-config-zen-2](https://github.com/jesuswasrasta/zmk-config-zen-2) (fork) — ZMK configuration repo for v2 of the Corne-ish Zen keyboard (updated 2025-08-15)
-- [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2025-08-13)
 - [m-r](https://github.com/jesuswasrasta/m-r) (fork) — Simple CQRS example (updated 2025-08-13)
 - [zmk-config](https://github.com/jesuswasrasta/zmk-config) (fork) — Keyboard layout for Corne-ish Zen (updated 2025-08-09)
 - [agents](https://github.com/jesuswasrasta/agents) (fork) — sharing current agents in use (updated 2025-07-30)
