@@ -5,7 +5,8 @@ I'm Ferdinando Santacroce 😀
 
 👨‍🏫 I've been a high school teacher  
 👨‍💻 Then a software developer  
-👲 Now I work with teams and organizations as an agile (technical) coach.  
+👲 Then an agile (technical) coach  
+👷‍♂️ Now I'm facilitating the architectural modernization of a big, beautiful monolith  
 
 👨‍💼 I’m on [LinkedIn](https://www.linkedin.com/in/ferdinandosantacroce/)  
 🐘 and even on [Mastodon](https://mastodon.social/@ferdinandosantacroce).  
@@ -13,10 +14,10 @@ I'm Ferdinando Santacroce 😀
 👯 I’ve a blog at [jesuswasrasta.com](https://jesuswasrasta.com)  
 👨‍🎨 I wrote something about Git [here](https://jesuswasrasta.com/works/).  
 
-👨‍🎤 I like to organize, participate and speak at conferences: [here](https://jesuswasrasta.com/talks/)  
+👨‍🎤 I like to organize, participate and speak at conferences: [here](https://jesuswasrasta.com/talks/) something about
 📙 as my preferred hobby is learning new things.  
 
-📫 Reach me at: [here](https://jesuswasrasta.com/about/)  
+📫 Reach me [here](https://jesuswasrasta.com/about/)  
 
 😄 Pronouns: he/him/his  
 
