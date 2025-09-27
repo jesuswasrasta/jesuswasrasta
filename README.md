@@ -26,12 +26,12 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [tensions_and_synergies_between_design_principles](https://github.com/jesuswasrasta/tensions_and_synergies_between_design_principles) (fork) — Code examples of tensions and synergies between object-oriented design principles (updated 2025-09-26)
+- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2025-09-26)
 - [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-09-16)
 - [kubernello](https://github.com/jesuswasrasta/kubernello) (fork) — Kubernetes cluster for side projects for 5$ month (updated 2025-09-15)
 - [dotfiles](https://github.com/jesuswasrasta/dotfiles) — How I take care of my personal dotfiles (updated 2025-09-08)
 - [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2025-08-31)
 - [KataSupermarket-EuroTN](https://github.com/jesuswasrasta/KataSupermarket-EuroTN) — No description (updated 2025-08-16)
 - [zmk-config-zen-2](https://github.com/jesuswasrasta/zmk-config-zen-2) (fork) — ZMK configuration repo for v2 of the Corne-ish Zen keyboard (updated 2025-08-15)
-- [m-r](https://github.com/jesuswasrasta/m-r) (fork) — Simple CQRS example (updated 2025-08-13)
-- [zmk-config](https://github.com/jesuswasrasta/zmk-config) (fork) — Keyboard layout for Corne-ish Zen (updated 2025-08-09)
 <!-- RECENT-REPOS:END -->
