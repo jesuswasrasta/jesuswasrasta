@@ -26,12 +26,12 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2025-09-26)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-09)
 - [gitoscope](https://github.com/jesuswasrasta/gitoscope) (fork) — A tool to dive into git details (updated 2025-11-08)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-08)
 - [GitEnvironment](https://github.com/jesuswasrasta/GitEnvironment) — My personal Git setup for Windows (Git aliases, Bash shell aliases and so on) (updated 2025-11-04)
 - [Muflone](https://github.com/jesuswasrasta/Muflone) (fork) — A CQRS and event store library (updated 2025-11-02)
 - [dotfiles](https://github.com/jesuswasrasta/dotfiles) — How I take care of my personal dotfiles (updated 2025-10-30)
 - [kwin4_effect_geometry_change](https://github.com/jesuswasrasta/kwin4_effect_geometry_change) (fork) — A KWin animation for windows moved or resized by programs or scripts (updated 2025-10-17)
 - [KataSupermarket-EuroTN](https://github.com/jesuswasrasta/KataSupermarket-EuroTN) — No description (updated 2025-10-09)
-- [tensions_and_synergies_between_design_principles](https://github.com/jesuswasrasta/tensions_and_synergies_between_design_principles) (fork) — Code examples of tensions and synergies between object-oriented design principles (updated 2025-10-07)
 <!-- RECENT-REPOS:END -->
