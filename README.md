@@ -26,8 +26,8 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-10)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2025-09-26)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-09)
 - [gitoscope](https://github.com/jesuswasrasta/gitoscope) (fork) — A tool to dive into git details (updated 2025-11-08)
 - [GitEnvironment](https://github.com/jesuswasrasta/GitEnvironment) — My personal Git setup for Windows (Git aliases, Bash shell aliases and so on) (updated 2025-11-04)
 - [Muflone](https://github.com/jesuswasrasta/Muflone) (fork) — A CQRS and event store library (updated 2025-11-02)
