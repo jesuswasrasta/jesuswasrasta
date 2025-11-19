@@ -26,9 +26,9 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-18)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2025-07-29)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2025-09-26)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-17)
 - [claude-forge](https://github.com/jesuswasrasta/claude-forge) (fork) — An experiment in organizing Claude Code skills. Token-optimized configurations for Go, Python, Rails, and Terraform with patterns extracted from real projects. (updated 2025-11-14)
 - [gitoscope](https://github.com/jesuswasrasta/gitoscope) (fork) — A tool to dive into git details (updated 2025-11-08)
 - [GitEnvironment](https://github.com/jesuswasrasta/GitEnvironment) — My personal Git setup for Windows (Git aliases, Bash shell aliases and so on) (updated 2025-11-04)
