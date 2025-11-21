@@ -26,9 +26,9 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-20)
 - [Muflone](https://github.com/jesuswasrasta/Muflone) (fork) — A CQRS and event store library (updated 2025-11-19)
 - [lazydocker](https://github.com/jesuswasrasta/lazydocker) (fork) — The lazier way to manage everything docker (updated 2025-11-19)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-19)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2025-07-29)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2025-09-26)
 - [claude-forge](https://github.com/jesuswasrasta/claude-forge) (fork) — An experiment in organizing Claude Code skills. Token-optimized configurations for Go, Python, Rails, and Terraform with patterns extracted from real projects. (updated 2025-11-14)
