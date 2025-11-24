@@ -26,7 +26,7 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-22)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-11-23)
 - [Muflone](https://github.com/jesuswasrasta/Muflone) (fork) — A CQRS and event store library (updated 2025-11-19)
 - [lazydocker](https://github.com/jesuswasrasta/lazydocker) (fork) — The lazier way to manage everything docker (updated 2025-11-19)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2025-07-29)
