@@ -26,7 +26,7 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-12-05)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2025-12-06)
 - [gitoscope](https://github.com/jesuswasrasta/gitoscope) (fork) — A tool to dive into git details (updated 2025-12-01)
 - [ai-journaling-template](https://github.com/jesuswasrasta/ai-journaling-template) (fork) — Template to start journalling with AI (Cursor) (updated 2025-11-26)
 - [Muflone](https://github.com/jesuswasrasta/Muflone) (fork) — A CQRS and event store library (updated 2025-11-19)
