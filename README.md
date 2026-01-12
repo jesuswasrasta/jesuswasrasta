@@ -26,12 +26,12 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [ragctl](https://github.com/jesuswasrasta/ragctl) (fork) — A powerful CLI tool to manage, test, and optimize RAG pipelines. Streamline your Retrieval-Augmented Generation workflows from terminal. (updated 2026-01-11)
+- [ollama-rocm-webui-docker](https://github.com/jesuswasrasta/ollama-rocm-webui-docker) — Ollama and OpenWebUI on Docker, ROCm and AMD 6600RX GPU customizations (updated 2026-01-11)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-11)
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-01-10)
 - [obsidian-skills](https://github.com/jesuswasrasta/obsidian-skills) (fork) — Claude Skills for Obsidian (updated 2026-01-10)
-- [ollama-rocm-webui-docker](https://github.com/jesuswasrasta/ollama-rocm-webui-docker) — Ollama and OpenWebUI on Docker, ROCm and AMD 6600RX GPU customizations (updated 2026-01-10)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-10)
 - [chatterbox](https://github.com/jesuswasrasta/chatterbox) (fork) — SoTA open-source TTS (updated 2026-01-05)
 - [kokoro-tts](https://github.com/jesuswasrasta/kokoro-tts) (fork) — A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents. (updated 2026-01-05)
 - [skill-porter](https://github.com/jesuswasrasta/skill-porter) (fork) — Universal tool to convert Claude Code skills to Gemini CLI extensions and vice versa (updated 2026-01-03)
-- [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2025-12-29)
 <!-- RECENT-REPOS:END -->
