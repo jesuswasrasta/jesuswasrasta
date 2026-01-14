@@ -26,9 +26,9 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [car-sharp](https://github.com/jesuswasrasta/car-sharp) (fork) — No description (updated 2026-01-12)
+- [car-sharp](https://github.com/jesuswasrasta/car-sharp) (fork) — No description (updated 2026-01-13)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-13)
 - [ragctl](https://github.com/jesuswasrasta/ragctl) (fork) — A powerful CLI tool to manage, test, and optimize RAG pipelines. Streamline your Retrieval-Augmented Generation workflows from terminal. (updated 2026-01-12)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-12)
 - [ollama-rocm-webui-docker](https://github.com/jesuswasrasta/ollama-rocm-webui-docker) — Ollama and OpenWebUI on Docker, ROCm and AMD 6600RX GPU customizations (updated 2026-01-11)
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-01-10)
 - [obsidian-skills](https://github.com/jesuswasrasta/obsidian-skills) (fork) — Claude Skills for Obsidian (updated 2026-01-10)
