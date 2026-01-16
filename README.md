@@ -22,7 +22,7 @@ I'm Ferdinando Santacroce 😀
 😄 Pronouns: he/him/his  
 
 ## 🥋 Katalog
-Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasrasta/lists/katalog).  
+Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jesuswasrasta/lists/katalog).  
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
@@ -35,3 +35,5 @@ Some of the kata I use with teams: [Katalog](https://github.com/stars/jesuswasra
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-01-10)
 - [obsidian-skills](https://github.com/jesuswasrasta/obsidian-skills) (fork) — Claude Skills for Obsidian (updated 2026-01-10)
 <!-- RECENT-REPOS:END -->
+
+[All my repo](https://github.com/jesuswasrasta?tab=repositories)
