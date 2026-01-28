@@ -26,14 +26,14 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-26)
+- [PHPDojo](https://github.com/jesuswasrasta/PHPDojo) — My personal PHP Dojo (updated 2023-08-26)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-01-22)
+- [trivia-php](https://github.com/jesuswasrasta/trivia-php) — No description (updated 2024-04-04)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2026-01-22)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-01-27)
 - [car-sharp](https://github.com/jesuswasrasta/car-sharp) (fork) — No description (updated 2026-01-13)
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-01-16)
 - [ragctl](https://github.com/jesuswasrasta/ragctl) (fork) — A powerful CLI tool to manage, test, and optimize RAG pipelines. Streamline your Retrieval-Augmented Generation workflows from terminal. (updated 2026-01-12)
-- [ollama-rocm-webui-docker](https://github.com/jesuswasrasta/ollama-rocm-webui-docker) — Ollama and OpenWebUI on Docker, ROCm and AMD 6600RX GPU customizations (updated 2026-01-11)
-- [obsidian-skills](https://github.com/jesuswasrasta/obsidian-skills) (fork) — Claude Skills for Obsidian (updated 2026-01-10)
 <!-- RECENT-REPOS:END -->
 
 [All my repo](https://github.com/jesuswasrasta?tab=repositories)
