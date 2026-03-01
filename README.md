@@ -26,12 +26,12 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-02-27)
+- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-01-22)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-02-28)
 - [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2026-02-26)
 - [arialdomartini.github.io](https://github.com/jesuswasrasta/arialdomartini.github.io) (fork) — Personal blog of Arialdo Martini (updated 2026-02-24)
 - [PHPDojo](https://github.com/jesuswasrasta/PHPDojo) — My personal PHP Dojo (updated 2026-02-17)
 - [car-sharp](https://github.com/jesuswasrasta/car-sharp) — No description (updated 2026-02-01)
-- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-01-22)
 - [trivia-php](https://github.com/jesuswasrasta/trivia-php) — No description (updated 2024-04-04)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2026-01-22)
 <!-- RECENT-REPOS:END -->
