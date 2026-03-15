@@ -26,9 +26,9 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-03-13)
+- [approval-tests-php](https://github.com/jesuswasrasta/approval-tests-php) (fork) — A PHP assertion library for approval testing with PHPUnit (updated 2026-03-14)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-03-14)
 - [php-toolbox](https://github.com/jesuswasrasta/php-toolbox) (fork) — :whale: :elephant: A Docker image designed for PHP developers that care about code quality. (updated 2026-03-07)
-- [approval-tests-php](https://github.com/jesuswasrasta/approval-tests-php) (fork) — A PHP assertion library for approval testing with PHPUnit (updated 2026-03-06)
 - [ClaudeCodeStatusLine](https://github.com/jesuswasrasta/ClaudeCodeStatusLine) (fork) — No description (updated 2026-03-04)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2026-01-22)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-01-22)
