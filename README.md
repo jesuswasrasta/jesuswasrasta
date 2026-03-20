@@ -26,14 +26,14 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-03-18)
+- [ExtremeCollaborativeProgramming](https://github.com/jesuswasrasta/ExtremeCollaborativeProgramming) — A random workshop about code, teams and collaboration (updated 2026-03-19)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-03-19)
 - [php-toolbox](https://github.com/jesuswasrasta/php-toolbox) (fork) — :whale: :elephant: A Docker image designed for PHP developers that care about code quality. (updated 2026-03-07)
 - [ClaudeCodeStatusLine](https://github.com/jesuswasrasta/ClaudeCodeStatusLine) (fork) — No description (updated 2026-03-04)
 - [KataSupermarket-workshop](https://github.com/jesuswasrasta/KataSupermarket-workshop) — Template repo for workshops with teams (updated 2026-01-22)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-01-22)
 - [odrive-scripts](https://github.com/jesuswasrasta/odrive-scripts) — My Oxygen Drive scripts (www.odrive.com) (updated 2026-02-26)
 - [arialdomartini.github.io](https://github.com/jesuswasrasta/arialdomartini.github.io) (fork) — Personal blog of Arialdo Martini (updated 2026-02-24)
-- [PHPDojo](https://github.com/jesuswasrasta/PHPDojo) — My personal PHP Dojo (updated 2026-02-17)
 <!-- RECENT-REPOS:END -->
 
 [All my repo](https://github.com/jesuswasrasta?tab=repositories)
