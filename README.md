@@ -26,14 +26,14 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [superpowers](https://github.com/jesuswasrasta/superpowers) (fork) — An agentic skills framework & software development methodology that works. (updated 2026-06-02)
+- [pocock-skills](https://github.com/jesuswasrasta/pocock-skills) (fork) — Skills for Real Engineers. Straight from my .claude directory. (updated 2026-06-02)
+- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-06-02)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-06-02)
 - [ARchetipo](https://github.com/jesuswasrasta/ARchetipo) (fork) — No description (updated 2026-05-27)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-06-01)
 - [PHPDojo](https://github.com/jesuswasrasta/PHPDojo) — My personal PHP Dojo (updated 2026-05-26)
 - [arcadedb-usecases](https://github.com/jesuswasrasta/arcadedb-usecases) (fork) — A collection of small projects to show how to use ArcadeDB (updated 2026-05-23)
 - [dapper-dot-net](https://github.com/jesuswasrasta/dapper-dot-net) (fork) — Dapper (updated 2026-05-04)
-- [OpenSpec](https://github.com/jesuswasrasta/OpenSpec) (fork) — Spec-driven development (SDD) for AI coding assistants. (updated 2026-05-03)
-- [hindsight-skills](https://github.com/jesuswasrasta/hindsight-skills) (fork) — No description (updated 2026-04-27)
-- [trivia-php](https://github.com/jesuswasrasta/trivia-php) — No description (updated 2024-04-04)
 <!-- RECENT-REPOS:END -->
 
 [All my repo](https://github.com/jesuswasrasta?tab=repositories)
