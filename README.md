@@ -26,8 +26,8 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-06-20)
 - [kcc-raffle](https://github.com/jesuswasrasta/kcc-raffle) (fork) — Quick raffle generator for giving away sponsor prizes to conference attendees. Originally developed for Milan Kotlin Community Conf 2018 (hence the "kcc") (updated 2026-06-19)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-06-19)
 - [superpowers](https://github.com/jesuswasrasta/superpowers) (fork) — An agentic skills framework & software development methodology that works. (updated 2026-06-02)
 - [pocock-skills](https://github.com/jesuswasrasta/pocock-skills) (fork) — Skills for Real Engineers. Straight from my .claude directory. (updated 2026-06-02)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-06-02)
