@@ -26,9 +26,9 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-09-13)
 - [debian-slim-lftp](https://github.com/jesuswasrasta/debian-slim-lftp) — My slim image to deploy using lftp (updated 2026-09-12)
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-09-12)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-09-12)
 - [docsy](https://github.com/jesuswasrasta/docsy) (fork) — Hugo theme for open source documentation (updated 2026-09-09)
 - [ARchetipo](https://github.com/jesuswasrasta/ARchetipo) (fork) — No description (updated 2026-08-26)
 - [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-06-02)
