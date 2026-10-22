@@ -26,14 +26,14 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-10-20)
+- [slackcli](https://github.com/jesuswasrasta/slackcli) (fork) — Slack CLI for humans and AI agents. Read, send, search and reply across one or many Slack workspaces from the terminal. No Slack app needed. (updated 2026-10-21)
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-10-21)
 - [ollama-rocm-webui-docker](https://github.com/jesuswasrasta/ollama-rocm-webui-docker) — Ollama and OpenWebUI on Docker, ROCm and AMD 6600RX GPU customizations (updated 2026-10-18)
 - [GitRecipes](https://github.com/jesuswasrasta/GitRecipes) — Don't get bitter, git better! 😄 (updated 2026-09-22)
 - [debian-slim-lftp](https://github.com/jesuswasrasta/debian-slim-lftp) — My slim image to deploy using lftp (updated 2026-09-12)
 - [LightRAG](https://github.com/jesuswasrasta/LightRAG) (fork) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" (updated 2026-09-12)
 - [docsy](https://github.com/jesuswasrasta/docsy) (fork) — Hugo theme for open source documentation (updated 2026-09-09)
 - [ARchetipo](https://github.com/jesuswasrasta/ARchetipo) (fork) — No description (updated 2026-08-26)
-- [KataSupermarket](https://github.com/jesuswasrasta/KataSupermarket) — The Supermarket coding kata, TDD version (updated 2026-06-02)
 <!-- RECENT-REPOS:END -->
 
 [All my repo](https://github.com/jesuswasrasta?tab=repositories)
