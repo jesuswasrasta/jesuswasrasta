@@ -26,8 +26,8 @@ Some of the coding kata I use with teams: [Katalog](https://github.com/stars/jes
 
 ## 📚 Recent Repositories
 <!-- RECENT-REPOS:START -->
+- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-11-12)
 - [obsidian-skills](https://github.com/jesuswasrasta/obsidian-skills) (fork) — Claude Skills for Obsidian (updated 2026-11-11)
-- [jesuswasrasta](https://github.com/jesuswasrasta/jesuswasrasta) — No description (updated 2026-11-11)
 - [slackcli](https://github.com/jesuswasrasta/slackcli) (fork) — Slack CLI for humans and AI agents. Read, send, search and reply across one or many Slack workspaces from the terminal. No Slack app needed. (updated 2026-10-21)
 - [KataSupermarket-PBT](https://github.com/jesuswasrasta/KataSupermarket-PBT) — Exploring Property-Based approach (updated 2023-09-11)
 - [opencode-openrouter-eu](https://github.com/jesuswasrasta/opencode-openrouter-eu) — OpenCode V2 plugin that restricts the OpenRouter model list to the models served from the European data region (updated 2026-10-22)
